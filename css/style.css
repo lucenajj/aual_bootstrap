@@ -1,0 +1,23 @@
+body{
+font-family: 'Times New Roman', Times, serif;
+}
+.nav-item  {
+margin-left: 100px;
+
+}
+.nav-item a{
+    color:white;
+}
+.quem-somos {
+    background-color: silver;
+    color: white;
+}
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+.bg-footer{
+    background-color: slategray;
+     padding-top: 20px;
+     padding-bottom: 10px;
+}
